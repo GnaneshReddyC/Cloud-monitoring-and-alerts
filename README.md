@@ -1,2 +1,13 @@
-# Cloud-monitoring-and-alerts
-setting up monitoring for cloud based application
+company: CODTECH IT SOLUTION
+
+NAME:GNANESH REDDY C
+
+INTER ID:CTIS5317
+
+DOMAIN: CLOUD COMPUTING
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+

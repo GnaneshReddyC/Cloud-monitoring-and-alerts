@@ -10,7 +10,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-TASK2:set up monitoring for cloud applications
+TASK-2:set up monitoring for cloud applications
 
 This project implements centralized monitoring and alerting for a cloud-based application using Amazon CloudWatch to ensure high availability, performance visibility, and proactive incident response. The application is deployed on Amazon EC2 instances behind Elastic Load Balancing, with a relational database hosted on Amazon RDS. The primary objective of this implementation is to collect infrastructure and application-level metrics, configure threshold-based alerts, and build a centralized dashboard that provides a real-time operational overview of the system. Detailed monitoring was enabled on EC2 instances to obtain one-minute granularity metrics, allowing faster detection of anomalies. In addition to default metrics such as CPU utilization, network input/output, and disk operations, the CloudWatch Agent was installed on the EC2 instances to capture memory utilization, disk usage percentages, and application log files. This agent was configured using the CloudWatch Agent configuration wizard and deployed as a system service to ensure continuous metric streaming to CloudWatch.
 
